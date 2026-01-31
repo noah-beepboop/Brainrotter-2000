@@ -1,5 +1,5 @@
 # Brainrotter-2000
-Makes focusing on work easier
+Makes focusing on work easier.
 <br> Overlays lots of video clips onto your screen to keep you visually stimulated.
 
 <br>
